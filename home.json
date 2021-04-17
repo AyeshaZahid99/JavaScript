@@ -1,0 +1,22 @@
+//JavaScript object notation (Json), used to represent data, generally is used by APIs to carry information which is very very light weight
+//object inside a list
+
+
+[
+    {
+
+
+    "first" : "Ayesha",
+    "last" :"Zahid",
+    "age" : 21,
+    "height" :5.6
+},
+{
+    "first": "wali",
+    "last" :"Zahid",
+    "age" : 18,
+    "height" :5.8
+        
+    }
+    
+]
