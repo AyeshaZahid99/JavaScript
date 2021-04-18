@@ -8,9 +8,11 @@ console.log("hello world!");
 var alpha = "ayesha"
 var num = "99"
 console.log(alpha);
-
+ */
 
  //document.getElementById("1").innerHTML ="storage";
+
+/*
 
 // var storage = prompt("What is your age?");
 //alert("Hello" + "  " + storage + " " + "enjoy the party");
@@ -162,7 +164,7 @@ if ( (age>=18) && (age<=50)){
         status= "Not my concern";
         console.log(status);
     }
-    */
+    
 
 // using SWITCH CASE
 //print weekend for fridays , saturdays & sundays
@@ -170,6 +172,8 @@ if ( (age>=18) && (age<=50)){
 
 //( How can we code in a way that whether user give put n 
 //upper case or lowercase it will any how respond correctly)
+
+
 var answer = prompt ("Name the Day?");
 switch(answer){
     case "friday":
@@ -210,3 +214,4 @@ let dump= `[
 ]`
 //console.log(JSON.parse(dump)[0].first);
 console.log(JSON.parse(dump));
+
